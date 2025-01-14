@@ -4,7 +4,7 @@ This is a React-based project for uggs online shop.
 ## Features
 - User-friendly interface  
 - Responsive design  
-- Supports dynamic filtering
+- clean modern UI
 
 ## Installation
 1. Clone the repository.  
